@@ -1,0 +1,10 @@
+.container
+{
+	width: 70%;
+	margin: 10% auto;
+}
+.darkmode
+{
+	background: #222;
+	color: #fff;
+}
